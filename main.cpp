@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <string>
+#include <climits>
+#include<iostream>
+#include<cstring>
 #include <fstream>
 
 using namespace std;
@@ -70,7 +73,7 @@ int main()
 
     
  
-    cout<< minTrials(n, k);
+    cout<<minTrials(n, k);
     return 0;
 }
 
